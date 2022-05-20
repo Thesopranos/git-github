@@ -4,3 +4,8 @@ git init = git'i bu klasörde aktif etmek için ve içerisinde kullanılabilecek
 
 ls -la = gizli klasörleri oluşturulma tarihleriyle ve detaylı bilgilerle birlikte gösterir
 
+git add = git'in takip ettiği dosyalar, klasörler'e takip edilecek olan dosya ya da klasör eklememize yarar ve
+takip edilen dosyalarda değişiklik yaptığımızda bu dosyayı git tarafında update etmeye yarar
+
+git commit -m "commit mesajı"= git'in takip ettiği dosyaların almış olduğu son update'ler ile bir checkpoint oluşturur commit içine not yazılması zorunludur
+(-m ile mesaj girmeyi sağlıyoruz " " içine mesajımızı giriyoruz)
