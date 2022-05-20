@@ -9,3 +9,6 @@ takip edilen dosyalarda değişiklik yaptığımızda bu dosyayı git tarafında
 
 git commit -m "commit mesajı"= git'in takip ettiği dosyaların almış olduğu son update'ler ile bir checkpoint oluşturur commit içine not yazılması zorunludur
 (-m ile mesaj girmeyi sağlıyoruz " " içine mesajımızı giriyoruz)
+
+git log = atılmış olan commitler hakkında atan kişi, atıldığı tarih ve commit mesajı gibi bilgileriyle birlikte verir her commit için bir hash vardır
+bu hashleri, bu commite dön gibi commit üzerinden işlemler yaparken kullanıyoruz
