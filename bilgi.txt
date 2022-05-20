@@ -1,0 +1,6 @@
+git status = repo var mı yok mu, varsa ne durumda gibi bilgileri görebilmemizi sağlar
+
+git init = git'i bu klasörde aktif etmek için ve içerisinde kullanılabilecek belgeleri takip etmek için kullanılır
+
+ls -la = gizli klasörleri oluşturulma tarihleriyle ve detaylı bilgilerle birlikte gösterir
+
