@@ -12,3 +12,7 @@ git commit -m "commit mesajı"= git'in takip ettiği dosyaların almış olduğu
 
 git log = atılmış olan commitler hakkında atan kişi, atıldığı tarih ve commit mesajı gibi bilgileriyle birlikte verir her commit için bir hash vardır
 bu hashleri, bu commite dön gibi commit üzerinden işlemler yaparken kullanıyoruz
+
+git commit -a = git add kullanmadan direkt commite kadarki süreci yapmamızı sağlayan komut -a dır.
+
+git add . = tüm dosyaları direkt update etmemizi sağlar
