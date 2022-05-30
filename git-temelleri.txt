@@ -19,4 +19,6 @@ git add . = tüm dosyaları direkt update etmemizi sağlar
 
 .gitignore = bu dosyayı oluşturduktan sonra bu dosyanın içine bulunduğu dizinde repoya dahil olmasını istemediğmiz
 dosyaların uzantılarıyla birlikte adını yazıyoruz bu dosyalar takip edilmiyor oluyor
+githubda kullandığın dile yönelik .gitignore template'i bulabilirsin
+
 
