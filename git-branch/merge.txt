@@ -6,3 +6,4 @@ git switch "branch adı" = bu komut ile branch değiştirebiliyoruz
 
 git merge "branch adı" = bu komut ile branch adı kısmına girilmiş branch'i master ile birleştirir
 
+şu an önce branch oluşturup sonra commit attığım için oluşturduğum branch'te üstteki yazılar yok
