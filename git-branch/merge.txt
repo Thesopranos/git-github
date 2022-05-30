@@ -8,3 +8,5 @@ git merge "branch adı" = bu komut ile branch adı kısmına girilmiş branch'i 
 
 şu an önce branch oluşturup sonra commit attığım için oluşturduğum branch'te üstteki yazılar yok
 
+git merge ile ilk_branch ile master i birleştireceğiz
+iki farklı branch birleşmiş oldu
