@@ -1,9 +1,10 @@
 en son commite baktığımızda HEAD master
 
-git branch "branch adı" = bu komut ile branch oluşturabiliyoruz ve otomatikmen bu yeni branch'e geçer
+git branch "branch adı" = bu komut ile branch oluşturabiliyoruz
 
 git switch "branch adı" = bu komut ile branch değiştirebiliyoruz
 
 git merge "branch adı" = bu komut ile branch adı kısmına girilmiş branch'i master ile birleştirir
 
 şu an önce branch oluşturup sonra commit attığım için oluşturduğum branch'te üstteki yazılar yok
+
