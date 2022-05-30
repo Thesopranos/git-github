@@ -1,0 +1,17 @@
+git log yazdığımızda HEAD -> master şeklinde bir ibare yer alır commit'in sonunda
+bu master ana branch olarak geçer 300 yazılımcının çalıştığı bir işi baz aldığımızda
+her bir yazılımcı kendi branch'i üzerinde çalışır ve zamanla yazılımcıların işleri bittikçe
+ana branch'e bu yazdıkları aktarılır.
+
+HEAD git içerisinde bizim nerede olduğumuzu gösterir HEAD -> master için master branch'indeyizdir.
+ayrıca son commit üzerinde güncel konumumuzu gösterir HEAD
+
+
+
+
+
+
+
+
+
+
