@@ -7,3 +7,4 @@ bizimle master içerisine gelir
 değişiklikler benimle birlikte diğer branch e geliyor ve o değişikliği restore edersem
 o değişiklik diğer branch üzerinde de değişiyor
 bunun önüne geçmek için stash yapıyoruz saklamak anlamına geliyor
+bu değişiklik çalışma klasöründe değil, localde değil, committe değil fakat tutuluyor
