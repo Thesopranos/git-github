@@ -1,0 +1,6 @@
+şimdi burada şunu konuşacağız, biz yeni oluşturduğumuz branch üzerinde yeni dosya oluşturmayıp
+var olan dosyalar üzerinde değişiklik yapsak ve aynı dosya üzerinde master'da da değişiklik yapsak ne olur
+burada şöyle bir terim oluşuyor conflict yani çakışma
+
+şimdi yeni bir branch açıp master üzerinde herhangi bir değişiklik yapmadan sadece yeni branch üzerinde değişiklik yapar
+ve master ile merge edersek sorun yaşamayız buna fast forwarding deniyor
