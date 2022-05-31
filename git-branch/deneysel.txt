@@ -1,4 +1,4 @@
 deneysel dosyayı oluşturduk ve burada yaptığımız değişiklikler
 master branch'ini etkilemeyecek
-
+örnek yazı yazdım
 ayrı dosyalar oluşturularak çalışılması gerektiğini düşünüyorum
