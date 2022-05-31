@@ -2,3 +2,8 @@
 sonrasında git add . yaptık fakat commit etmedik bu durumda ne yaşarız onu göreceğiz
 git add . yapıp commit etmeden branch değiştirdiğimizde add içinde kalmış olan değişiklikler de
 bizimle master içerisine gelir
+
+şimdi stash olayında sorun şu ben add . yapsam da yapmasam da commit etmediğim sürece
+değişiklikler benimle birlikte diğer branch e geliyor ve o değişikliği restore edersem
+o değişiklik diğer branch üzerinde de değişiyor
+bunun önüne geçmek için stash yapıyoruz saklamak anlamına geliyor
