@@ -1,0 +1,4 @@
+şimdi biz bu stash dosyasına bir şeyler yazdıkve stast_test adında text dosyası oluşturduk
+sonrasında git add . yaptık fakat commit etmedik bu durumda ne yaşarız onu göreceğiz
+git add . yapıp commit etmeden branch değiştirdiğimizde add içinde kalmış olan değişiklikler de
+bizimle master içerisine gelir
