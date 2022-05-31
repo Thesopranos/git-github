@@ -1,3 +1,4 @@
 bu dosya merge conflict olayını algılamak için oluşturuldu
 ilk olarak bu dosyayı master iken commitliyoruz daha sonra branch'i açıyoruz
 sonra o branch içerisinde buradaki yazıları değiştiriyoruz ve merge conflict
+"bu text merge conflict oluşturmak için yazıldı"
