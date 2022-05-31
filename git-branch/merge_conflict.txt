@@ -1,0 +1,2 @@
+şimdi fast_forward dosyasında conflict yaşamadan nasıl merge edeceğimizi gördük
+şimdi ise conflict yaşayacağız
