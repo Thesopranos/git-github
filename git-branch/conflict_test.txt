@@ -1,0 +1,2 @@
+bu dosya merge conflict olayını algılamak için oluşturuldu
+ilk olarak bu dosyayı master iken commitliyoruz
