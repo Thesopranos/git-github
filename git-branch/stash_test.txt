@@ -1,0 +1,3 @@
+bu dosya stash olayını test etmek için oluşturuldu
+
+stash 
