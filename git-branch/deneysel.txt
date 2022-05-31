@@ -2,3 +2,5 @@ deneysel dosyayı oluşturduk ve burada yaptığımız değişiklikler
 master branch'ini etkilemeyecek
 
 ayrı dosyalar oluşturularak çalışılması gerektiğini düşünüyorum
+
+git stash olayının testi

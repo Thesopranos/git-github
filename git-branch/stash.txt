@@ -8,3 +8,7 @@ değişiklikler benimle birlikte diğer branch e geliyor ve o değişikliği res
 o değişiklik diğer branch üzerinde de değişiyor
 bunun önüne geçmek için stash yapıyoruz saklamak anlamına geliyor
 bu değişiklik çalışma klasöründe değil, localde değil, committe değil fakat tutuluyor
+
+bu durumu yaşadığımızda
+git stash = o anki add . yapmadığımız, commit etmediğimiz hali tutuyor depoluyor
+git stash pop = önceden tutmuş olduğumuz stash i geri getiriyor
