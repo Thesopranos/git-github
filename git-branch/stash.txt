@@ -9,6 +9,14 @@ o değişiklik diğer branch üzerinde de değişiyor
 bunun önüne geçmek için stash yapıyoruz saklamak anlamına geliyor
 bu değişiklik çalışma klasöründe değil, localde değil, committe değil fakat tutuluyor
 
+
 bu durumu yaşadığımızda
 git stash = o anki add . yapmadığımız, commit etmediğimiz hali tutuyor depoluyor
 git stash pop = önceden tutmuş olduğumuz stash i geri getiriyor
+
+bir değişiklik yaptık
+git stash list = stash'leri listeler
+git stash apply stash@{0} = 0 indeksli stash i pop eder
+git stash = depoya atar
+git stash clear = bütün stashleri temizler
+
