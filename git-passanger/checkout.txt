@@ -1,4 +1,7 @@
 şimdi commit atmadan geçmişe dönme olayını gördük restore ile yapıyoruz
+git checkout "commit id" = girilmiş commit id ye geri döner fakat oradayken
+ya yeni branch oluşturmalıyız ya da mastere geri dönmeliyiz gibi durumlar vardır 
+dikkatli olunması önerilir
 
 şimdi altta yazacağımız yazı deneysel olacak onu commit atıp geri getirmeye çalıaşcağız
 deneysel yazı
