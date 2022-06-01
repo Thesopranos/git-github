@@ -1,5 +1,17 @@
 şimdi commit atmadan geçmişe dönme olayını gördük restore ile yapıyoruz
 
+git checkout "commit id" = commit'e bakmak için geçmişe dönmemizi sağlar ve bu işlem sonrasında
+ya orada yeni bir branch oluştururz ya da master a switch edip eski master'dan devam ederiz
+
+git reset "commit id" = commit'e geri döneriz ve commit'in önündeki commitler silinir fakat
+dosyalar üzerinde bir değişiklik olmaz
+
+git reset --hard "commit id" = commit'e geri döneriz ve commit'in önündeki commitler silinir
+ayrıca dosya içerikleri de kalıcı olarak geri alınmış olur bunun geri dönüşü yoktur dikkatli kullan
+
+git revert "commit id" = reset --hard gibi çalışır fakat önündeki commitleri silmek yerine dosyalarda
+değişiklikleri yapar ve yeni bir commit oluşturur
+
 şimdi altta yazacağımız yazı deneysel olacak onu commit atıp geri getirmeye çalıaşcağız
 deneysel yazı
 deneysel 2. yazı
