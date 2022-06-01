@@ -1,3 +1,4 @@
 şimdi commit atmadan geçmişe dönme olayını gördük restore ile yapıyoruz
 
 şimdi altta yazacağımız yazı deneysel olacak onu commit atıp geri getirmeye çalıaşcağız
+deneysel yazı
