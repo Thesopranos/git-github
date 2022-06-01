@@ -1,3 +1,5 @@
 burada iki commit arasındaki farkları görmeyi öğreneceğiz kıyaslamayı öğreneceğiz
 sadece commitleri değil branch'leri de kıyaslayabileceğiz daha da fazlası var
 git add . ile git add . yapmadan önceki halini bile kıyaslayabileceğiz
+
+git diff HEAD = son commit ile şu anki dosya arasındaki farkları gösterir
