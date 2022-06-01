@@ -19,4 +19,4 @@ git stash list = stash'leri listeler
 git stash apply stash@{0} = 0 indeksli stash i pop eder
 git stash = depoya atar
 git stash clear = bütün stashleri temizler
-
+git restore asd.txt = asd.txt dosyasını bir önceki committeki haline geri alır add . işlemini geri almak için kullanılır

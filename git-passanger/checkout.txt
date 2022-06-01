@@ -1,0 +1,1 @@
+şimdi commit atmadan geçmişe dönme olayını gördük restore ile yapıyoruz
