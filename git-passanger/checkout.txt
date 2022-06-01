@@ -2,3 +2,4 @@
 
 şimdi altta yazacağımız yazı deneysel olacak onu commit atıp geri getirmeye çalıaşcağız
 deneysel yazı
+deneysel 2. yazı
