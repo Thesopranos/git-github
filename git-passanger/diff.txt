@@ -1,1 +1,2 @@
 burada iki commit arasındaki farkları görmeyi öğreneceğiz kıyaslamayı öğreneceğiz
+sadece commitleri değil branch'leri de kıyaslayabileceğiz
