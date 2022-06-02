@@ -7,4 +7,3 @@ git diff HEAD = son commit ile şu anki dosya arasındaki farkları gösterir
 git diff "commit id" "commit id" = iki commit arasındaki değişiklikleri gösterir
 
 git diff "branch name" "branch name" = iki branch arasındaki farkları gösterir
-
