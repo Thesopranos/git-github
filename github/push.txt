@@ -1,1 +1,3 @@
 git push = burada yaptığımız değişiklikleri github'a push eder
+
+git push origin "branch name" = farklı bir branch'i push etmemizi sağlar
