@@ -1,0 +1,7 @@
+private repo oluşturduğumuzda dışarıdan kimse bu repoyu göremez
+eğer bir kişiyi görebilir yapmak istiyorsak collaborators kısmında
+o kişiye istek atmamız gerekir ve kişi isteği kabul ettiğinde push etme yetkisine
+sahiptir bu bir noktada sıkıntılıdır çünkü bu birey kodu değiştirebilir yetkiye sahip
+bu kişinin branch oluşturup işlem yapması önerilir
+normal iş hayatında gizli projeye dahil edildiğimiz durumda direkt push etmek yerine
+pull request yollamalıyız bununla birlikte kabul edip etmemek yöneticiye kalmış
