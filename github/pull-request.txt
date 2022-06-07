@@ -1,0 +1,4 @@
+biz bir branch'i push ettiğimizde compare and pull request diye bir kısım geliyor
+bu kısıma tıkladığımızda merge edebiliyor muyuz onu gösteriyor ve farklılıkları gösteriyor
+conflict bulunmaması durumunda bunu belirtir bu sayfa
+biz pull request'i ve merge yaparsak githubda github pc'deki git'e göre bir adım önde oluyor
