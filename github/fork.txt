@@ -1,0 +1,7 @@
+şimdi biz clone ile dosyayı çektiğimizde işlem yaptıktan sonra push edemiyorduk
+bunun yerine fork var fork yaptığımız zaman repoyu kendi github hesabımıza çeker
+bunun üzerinde push yapabiliriz bizim kendi forkladığımız repo etkilenir sadece
+orjinali ile fork'ladığımız repo bağlantılıdır orjinalindeki değişiklikler bize
+bilgi olarak gösterilir o dosyayı fetch edip çekebiliriz
+biz yaptığımız değişiklikler bitince pull request oluştururuz ve reponun sahibi
+kabul ederse eğer merge edilir etmezse öyle kalır
