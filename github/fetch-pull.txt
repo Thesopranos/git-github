@@ -6,4 +6,3 @@ git checkout origin/"branch name" = origin üzerindeki branchlere switch yapamay
 checkout kullanıyoruz
 
 git pull = git fetch + git merge anlamına gelir, fetch ile bir sorunumuz yoksa pull edip dosyayı kendimize geçirebiliriz
-
