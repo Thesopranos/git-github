@@ -1,0 +1,9 @@
+git fetch origin master = al getir demektir, github'daki değişikliği almış oluruz
+
+git branch -r = origin üzerindeki branchleri gösterir
+
+git checkout origin/"branch name" = origin üzerindeki branchlere switch yapamayız bu yüzden
+checkout kullanıyoruz
+
+git pull = git fetch + git merge anlamına gelir, fetch ile bir sorunumuz yoksa pull edip dosyayı kendimize geçirebiliriz
+
