@@ -1,0 +1,5 @@
+git clone "clone link" = bir repoyu alıp bilgisayara klonlar
+git clone önceki bütün commitleri felan hepsini birlikte klonlar
+biz yaptığımız değişiklikleri add yapabilir commit atabiliriz fakat
+push edemeyiz permission error verir kafamıza göre değişiklik yapıp push edemeyiz
+ama fetch edebiliriz
