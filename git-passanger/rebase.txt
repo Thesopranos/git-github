@@ -1,0 +1,12 @@
+biz yeni bir branch açıp onda ilerlerken, master'a yeni bir commit geldiğinde
+o commiti kendi branch'imize merge etmek isteyebiliriz
+bunu bir kaç kere yaptıktan sonra git log kirlenmeye başlıyor
+bu bir sorun olmayabilir ama olada bilir.
+bunu çözmek için rebase kullanıyoruz yeniden yapılandırmış oluyoruz sistemi
+bunda da şöyle bir şey oluyor, tarihi yeniden yapılandırmış gibi oluyoruz
+önce master'deki commitler daha sonra master'e yeni branch ekleniyor ucundan
+bunu yapmak büyük sorunlara yol açabilir, eğer önemli bir konu değilse kullanmayabiliriz
+asla kullanmamamız gereken konuları bilmemiz gerekiyor o da şu
+projeyi ortak yazıyorsak ve diğerleri benim attığım commitleri çekip kendi işlerinde kullanıyorlarsa
+rebase yaptığımda diğerlerinin projesini darmadağın edebilirim
+git rebase master = rebase yapmak istediğimiz branch içindeyken çalıştırırız, logların kronolojik sırasını düzenler
