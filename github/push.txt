@@ -1,0 +1,1 @@
+git push = burada yaptığımız değişiklikleri github'a push eder

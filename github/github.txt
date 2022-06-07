@@ -1,0 +1,2 @@
+git remote add origin "link" = git kullandığımız projeyi github'a yükleme sürecinde kullanıyoruz
+origin bir isim linki tutacak olan isim
